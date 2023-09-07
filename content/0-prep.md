@@ -4,13 +4,7 @@ nav: Prep
 topics: GitHub; Optional Software
 ---
 
-To create your own materials using `workshop-template-b`, please set up a free [GitHub account](https://github.com/join) if you do not have one already.
-
-Basic familiarity with the GitHub web interface will be helpful.
-For a quick introduction check out GitHub's [Hello World guide](https://guides.github.com/activities/hello-world/), or the extensive [GitHub Learning Lab](https://lab.github.com/).
-
-This template works great using only GitHub's web interface for editing--you don't have to install anything!
-However, for more advanced uses you will want Git, Ruby, and Jekyll installed on your computer to do local development.
+aweymo.
 
 {% capture text %}
 1. Have a [GitHub](https://github.com) account.
